@@ -43,7 +43,7 @@ THEN I should have proper build scripts for a webpack application
 Using the provided started code, make adjustments to the code, fulfilling
 any TODOs and updating the package.json file, so that the application will be able to successfully render a text editor you could open on localhost:3000. The basis of the application uses webpack plugins, including IndexedDB, so that it may be able to store the saved information the user has entered for referring to for later use.
 
-![img](./Develop/assets/fabulous-pwa-text-editor.png)
+![img](./assets/fabulous-pwa-text-editor.png)
 
 ## How to Run
 
