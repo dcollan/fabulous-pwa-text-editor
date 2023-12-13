@@ -45,6 +45,9 @@ any TODOs and updating the package.json file, so that the application will be ab
 
 ![img](./assets/fabulous-pwa-text-editor.png)
 
+## Link of Deployed App
+https://fabulous-pwa-text-editor.onrender.com/
+
 ## How to Run
 
 1. Run 'git clone (repo link)' on Git Bash'
